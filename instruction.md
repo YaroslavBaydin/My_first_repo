@@ -106,10 +106,9 @@ Column | Column
 ------ | ------
 \| Cell \|| \| Cell \|  
 
-# Продолжение следует...
-
-
-Column | Column | Column
+Сolumn | Column | Column
 :----- | :----: | -----:
 Left   | Center | Right
 align  | align  | align
+
+# Продолжение следует...
